@@ -100,6 +100,7 @@ difference in "ﻑ" shape.
 As you would have noticed "ﻑ" takes on a different shape based on its position of usage.
 
 <img src="https://raw.githubusercontent.com/urduhack/urdu-characters/master/img/urdu_chr_shapes.png">
+- [Blog Lovers Pakistan](https://bloglovers.pk) – 380+ free Urdu articles on Islamic teachings, education, history, English literature, technology, and kids' stories. A comprehensive resource for Urdu readers and researchers.
 
 
 ## Urdu/Arabic Character Presentation Fonts
